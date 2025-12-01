@@ -5,7 +5,7 @@ Este projeto é um sistema de Inteligência Artificial capaz de detetar o uso de
 
 O modelo utiliza **Deep Learning** para identificar múltiplos equipamentos simultaneamente (ex: uma pessoa pode estar a usar capacete e luvas ao mesmo tempo).
 
-## 📋 Funcionalidades
+Funcionalidades
 
 * **Deteção em Tempo Real:** Processamento frame a frame via webcam.
 * **Classificação Multi-label:** Capaz de identificar várias classes na mesma imagem.
@@ -16,7 +16,7 @@ O modelo utiliza **Deep Learning** para identificar múltiplos equipamentos simu
     * `sem_epi` (nenhum equipamento detetado)
 * **Feedback Visual:** Exibe a probabilidade de confiança (%) para cada item detetado no ecrã.
 
-## 🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
 * **Framework:** TensorFlow / Keras
@@ -24,7 +24,7 @@ O modelo utiliza **Deep Learning** para identificar múltiplos equipamentos simu
 * **Visão Computacional:** OpenCV
 * **Dependências:** Geridas via `requirements.txt`
 
-## 🚀 Instalação e Configuração
+Instalação e Configuração
 
 ### 1. Clonar o repositório
 ```bash
