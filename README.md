@@ -1,11 +1,10 @@
-### 🛡️ Detector de EPIs em Tempo Real (Visão Computacional)
+# 🛡️ Detector de EPIs em Tempo Real (Visão Computacional)
 
-````markdown
-Este projeto é um sistema de Inteligência Artificial capaz de detetar o uso de Equipamentos de Proteção Individual (EPIs) em tempo real através de uma webcam.
+Este projeto é um sistema de Inteligência Artificial capaz de detetar o uso de Equipamentos de Proteção Individual (EPIs) em tempo real através de uma webcam. 
 
-O modelo utiliza **Deep Learning** para identificar múltiplos equipamentos simultaneamente (ex: uma pessoa pode estar a usar capacete e luvas ao mesmo tempo).
+O modelo identifica múltiplos equipamentos simultaneamente (ex: uma pessoa pode estar a usar capacete e luvas ao mesmo tempo).
 
-Funcionalidades
+## 📋 Funcionalidades
 
 * **Deteção em Tempo Real:** Processamento frame a frame via webcam.
 * **Classificação Multi-label:** Capaz de identificar várias classes na mesma imagem.
@@ -14,23 +13,22 @@ Funcionalidades
     * `luva`
     * `Oculos`
     * `sem_epi` (nenhum equipamento detetado)
-* **Feedback Visual:** Exibe a probabilidade de confiança (%) para cada item detetado no ecrã.
+* **Visualização:** Exibe a probabilidade de confiança (%) para cada item detetado no ecrã.
 
-Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Python 3.x
-* **Framework:** TensorFlow / Keras
-* **Modelo Base:** MobileNetV2 (Transfer Learning)
+* **Linguagem:** Python 3
+* **Deep Learning:** TensorFlow / Keras
+* **Arquitetura:** MobileNetV2 (Transfer Learning)
 * **Visão Computacional:** OpenCV
-* **Dependências:** Geridas via `requirements.txt`
+* **Processamento Numérico:** NumPy
 
-Instalação e Configuração
+## 🚀 Instalação e Configuração
 
 ### 1. Clonar o repositório
 ```bash
 git clone [https://seu-repositorio-aqui.git](https://seu-repositorio-aqui.git)
 cd nome-da-pasta
-````
 
 ### 2\. Configurar o Ambiente
 
