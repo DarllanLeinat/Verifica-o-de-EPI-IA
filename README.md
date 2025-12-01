@@ -115,5 +115,5 @@ O projeto aplica **Transfer Learning** na rede **MobileNetV2**:
 ## 📝 Autor
 
 Desenvolvido como projeto de Visão Computacional.
-```
+
 ```
