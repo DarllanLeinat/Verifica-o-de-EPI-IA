@@ -114,14 +114,6 @@ O projeto aplica **Transfer Learning** na rede **MobileNetV2**:
 
 -----
 
-## 🔮 Melhorias Futuras
-
-  * [ ] Dockerizar a aplicação para facilitar o deploy.
-  * [ ] Criar uma API com Flask/FastAPI para receber imagens via HTTP.
-  * [ ] Integrar com serviços de Cloud (Azure/GCP) para armazenamento de logs de deteção.
-
------
-
 ## 📝 Autor
 
 Desenvolvido como projeto de Visão Computacional.
