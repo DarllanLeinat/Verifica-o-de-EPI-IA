@@ -1,9 +1,3 @@
-Com certeza. Aqui está o código completo e formatado corretamente para o seu ficheiro `README.md`.
-
-Eu ajustei a formatação do código (os blocos `bash` e `plaintext`) para garantir que, quando você colocar no GitHub ou visualizar o ficheiro, ele apareça com as cores e a estrutura correta.
-
-### Copie o código abaixo:
-
 ````markdown
 # 🛡️ Detector de EPIs em Tempo Real (Visão Computacional)
 
