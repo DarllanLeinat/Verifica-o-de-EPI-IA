@@ -1,6 +1,6 @@
-````markdown
-# 🛡️ Detector de EPIs em Tempo Real (Visão Computacional)
+### 🛡️ Detector de EPIs em Tempo Real (Visão Computacional)
 
+````markdown
 Este projeto é um sistema de Inteligência Artificial capaz de detetar o uso de Equipamentos de Proteção Individual (EPIs) em tempo real através de uma webcam.
 
 O modelo utiliza **Deep Learning** para identificar múltiplos equipamentos simultaneamente (ex: uma pessoa pode estar a usar capacete e luvas ao mesmo tempo).
