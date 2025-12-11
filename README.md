@@ -1,10 +1,10 @@
-# 🛡️ Detector de EPIs em Tempo Real (Visão Computacional)
+# 🛡️ Detector de EPIs em Tempo Real
 
 Este projeto é um sistema de Inteligência Artificial capaz de detetar o uso de Equipamentos de Proteção Individual (EPIs) em tempo real através de uma webcam. 
 
 O modelo identifica múltiplos equipamentos simultaneamente (ex: uma pessoa pode estar a usar capacete e luvas ao mesmo tempo).
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 * **Deteção em Tempo Real:** Processamento frame a frame via webcam.
 * **Classificação Multi-label:** Capaz de identificar várias classes na mesma imagem.
@@ -15,7 +15,7 @@ O modelo identifica múltiplos equipamentos simultaneamente (ex: uma pessoa pode
     * `sem_epi` (nenhum equipamento detetado)
 * **Visualização:** Exibe a probabilidade de confiança (%) para cada item detetado no ecrã.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Python 3
 * **Deep Learning:** TensorFlow / Keras
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 -----
 
-## 💻 Como Usar
+## Como Usar
 
 ### Opção A: Executar a Deteção (Webcam)
 
@@ -89,7 +89,7 @@ Caso queira treinar o modelo do zero com as suas próprias imagens:
 
 -----
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
   * `camera.py`: Script principal de inferência (webcam).
   * `train.py`: Script de treino da rede neural (Transfer Learning).
@@ -98,7 +98,7 @@ Caso queira treinar o modelo do zero com as suas próprias imagens:
   * `class_indices.json`: Mapeamento de classes (Label -\> ID).
   * `models/meu_modelo_epi.h5`: O ficheiro binário da rede neural treinada.
 
-## 🧠 Detalhes da Arquitetura
+## Detalhes da Arquitetura
 
 O projeto aplica **Transfer Learning** na rede **MobileNetV2**:
 
