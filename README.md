@@ -111,7 +111,3 @@ O projeto aplica **Transfer Learning** na rede **MobileNetV2**:
 4.  **Loss Function:** `Binary Crossentropy` (ideal para classificação multi-label, onde as classes não são mutuamente exclusivas).
 
 -----
-
-## 📝 Autor
-
-Desenvolvido como projeto de Visão Computacional.
