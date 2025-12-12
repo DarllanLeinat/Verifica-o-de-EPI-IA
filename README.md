@@ -9,7 +9,7 @@ O modelo identifica múltiplos equipamentos simultaneamente (ex.: uma pessoa pod
 
 ## Funcionalidades
 
-- **Deteção em Tempo Real:** Processamento fotograma a fotograma via webcam
+- **Detecção em Tempo Real:** Processamento fotograma a fotograma via webcam
 - **Classificação Multi-label:** Capaz de identificar várias classes na mesma imagem
 - **Classes Treinadas:**
   - `capacete`
