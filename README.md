@@ -4,7 +4,7 @@ Este projeto é um sistema de Inteligência Artificial capaz de detetar o uso de
 
 O modelo identifica múltiplos equipamentos simultaneamente (ex.: uma pessoa pode estar a usar capacete e luvas ao mesmo tempo).
 
-<img width="1365" height="702" alt="Captura de tela 2025-12-11 205416" src="https://github.com/user-attachments/assets/6f0180c6-252f-4344-8a61-34a78379c743" />
+<img width="1365" height="697" alt="Captura de tela 2025-12-11 212538" src="https://github.com/user-attachments/assets/0f1ae098-d8b8-4123-8836-8a58a3bf262a" />
 
 
 ## Funcionalidades
