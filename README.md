@@ -133,4 +133,5 @@ O projeto aplica **Transfer Learning** na rede **MobileNetV2**:
 - 4GB RAM (mínimo recomendado)
 - GPU (opcional, mas recomendado para treino)
 
+
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
