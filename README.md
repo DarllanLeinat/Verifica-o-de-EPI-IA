@@ -133,14 +133,4 @@ O projeto aplica **Transfer Learning** na rede **MobileNetV2**:
 - 4GB RAM (mínimo recomendado)
 - GPU (opcional, mas recomendado para treino)
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer um fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abrir um Pull Request
-
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
